@@ -46,7 +46,7 @@
     "@feathersjs/feathers": "^4.5.1"
   },
   "devDependencies": {
-    "@types/mocha": "^7.0.1",
+    "@types/mocha": "^7.0.2",
     "@types/mongodb": "^3.3.16",
     "@types/node": "^13.7.4",
     "mocha": "^7.0.1",
